@@ -15,7 +15,7 @@ banner = """
                                                                 For Fun Actually :) 
                                                                     Cuz I Was Feeling Some Boredom
                                                                         (Please Don't Commit Sins With This One ;))
-                                                      
+Github: github.com/Bilalahmadkhankhattak/SoundFlex                                                      
 """
 print(Fore.CYAN + banner)
 def load_music(file_path):  # Load The File, If it really exists
