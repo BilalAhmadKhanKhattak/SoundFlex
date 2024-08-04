@@ -64,7 +64,7 @@ if __name__ == "__main__":
         play_music()
 
         while True:
-            print(Fore.LIGHTMAGENTA_EX + "\nCommands: play, pause, unpause, stop, quit")
+            print(Fore.LIGHTMAGENTA_EX + "\nCommands: play, pause, unpause, stop, quit, volume <value>")
             command = input("Enter Command: ").strip().lower()
 
             if command == "play":
