@@ -1,0 +1,37 @@
+INSTRUCTIONS FOR USING SOUNDFLEX
+
+1. INSTALL REQUIREMENTS:
+   - Ensure you have Python 3 installed on your system.
+   - Open a terminal and run the following command to install the required libraries:
+     pip install pygame colorama
+     OR
+     pip install -r requirements.txt
+
+2. COPY THE SOUNDFLEX SCRIPT:
+   - Copy the audio file to the folder containing SoundFlex.py
+
+3. RUN THE SCRIPT:
+   - Run the script using the command:
+     python3 SoundFlex.py
+
+4. ENTER THE EXACT AUDIO FILE NAME:
+   - When prompted, type the exact name of the audio file you want to play (e.g., example.mp3).
+   - Ensure the file is in the same folder as the script.
+
+5. CONTROL AUDIO PLAYBACK:
+   - Use the following commands to control playback:
+     - play: Start playing the audio.
+     - pause: Pause the audio.
+     - unpause: Resume playback.
+     - stop: Stop the audio.
+     - volume [level]: Set the volume (e.g., volume 0.5).
+     - quit: Exit the player.
+
+6. TROUBLESHOOTING:
+   - If you encounter errors related to audio, ensure your audio device is working and no other application is blocking it.
+
+7. EXITING:
+   - To stop the script and exit, type the command:
+     quit
+
+8. ENJOY YOUR AUDIO WITH SOUNDFLEX!
