@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/a3ad39ee-35db-4b13-9b89-3c90f18be776)
 # SoundFlex
 
 SoundFlex is a lightweight command-line audio player built using Python and Pygame. It allows you to play, pause, unpause, stop, and adjust the volume of your audio files through simple commands. This tool was created for fun and is ideal for quick audio playback from the terminal.
