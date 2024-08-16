@@ -10,7 +10,7 @@ Actually, I guess, I was feeling some kind of boredom, so I began to create this
 - **Stop**: Stop the audio playback.
 - **Volume Control**: Adjust the volume of the audio.
 
-##Version 1.1
+## Version 1.1
 - Basic Functionality: Allows you to load, play, pause, unpause, and stop audio files.
 - Volume Control: Set volume levels directly, with checks for valid input ranges.
 - Error Handling: Basic error handling for file operations and commands.
