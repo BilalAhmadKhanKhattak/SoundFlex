@@ -20,6 +20,8 @@ Actually, I guess, I was feeling some kind of boredom, so I began to create this
 - Volume Input Range: Adjusted volume input to accept values between 0 and 100 (converted to a range of 0.0 to 1.0 internally).
 - Enhanced User Experience: Updated command options and improved error handling for volume and file operations.
 
+![image] = https://github.com/BilalAhmadKhanKhattak/SoundFlex/blob/main/Screenshot%20(10).png
+
 
 ## Installation
 
