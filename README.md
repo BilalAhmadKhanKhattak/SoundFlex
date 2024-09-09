@@ -20,6 +20,14 @@ Actually, I guess, I was feeling some kind of boredom, so I began to create this
 - Volume Input Range: Adjusted volume input to accept values between 0 and 100 (converted to a range of 0.0 to 1.0 internally).
 - Enhanced User Experience: Updated command options and improved error handling for volume and file operations.
 
+## What's New in Version 1.3
+- Interactive File Selection: Instead of typing the exact filename, users can now select an audio file by choosing its corresponding number from a list of available files. This feature enhances usability by reducing input errors and speeding up the selection process.
+- Improved Error Messages: The application provides more informative error messages when users enter invalid input for file selection, helping users correct their mistakes more easily.
+- Flexible Quit Command: The quit command is now more flexible, accepting variations like "quit" or "QUIT" to exit the program, improving the user experience by making commands more forgiving.
+- Enhanced Command Handling: Refined command parsing logic for better error handling and user feedback when commands are entered incorrectly.
+- Code Quality Enhancements: Improved code comments and formatting for better readability and maintenance, ensuring that the codebase is easier to understand and modify.
+
+## SoundFlex(1.2) Screenshot:
 ![image](https://github.com/BilalAhmadKhanKhattak/SoundFlex/blob/main/Screenshot%20(10).png)
 
 
